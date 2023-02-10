@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 😀
 
-Meu nome é Fernando Arvelos e sou completamente apaixonado por tecnologia, games de FPS e Corrida, séries, filmes 😎
+Meu nome é Fernando Arvelos e sou completamente apaixonado por tecnologia, games de FPS e Corrida, séries, filmes e Futebol Americano 😎
 
 Atualmente estou cursando Full Stack na escola Trybe.
 
