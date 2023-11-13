@@ -4,6 +4,8 @@ Meu nome é Fernando Arvelos e sou completamente apaixonado por tecnologia, game
 
 Atualmente estou cursando Desenvolvimento Web Full Stack na escola Trybe.
 
+E-mail: fernandoarvelos1@gmail.com
+
 <br>
 
 <!-- GITHUB STATUS -->
